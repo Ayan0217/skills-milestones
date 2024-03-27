@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5533],{6067:s=>{s.exports=JSON.parse('{"label":"english","permalink":"/skills-milestones/docs/tags/english","allTagsPath":"/skills-milestones/docs/tags","count":1,"items":[{"id":"Books/intro","title":"Introduction","description":"","permalink":"/skills-milestones/docs/Books/intro"}]}')}}]);
